@@ -1,2 +1,1 @@
-# hello-world
-igual sale, igual explota
+print("Hello, world!")
